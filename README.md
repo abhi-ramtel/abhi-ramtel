@@ -1,7 +1,6 @@
 ## Hi there, I'm Abhi Ramtel! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+I love to make tech accessible.
+
 - 📫 How to reach me: www.linkedin.com/in/abhi-ramtel
 
